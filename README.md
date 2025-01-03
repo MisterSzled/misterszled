@@ -2,7 +2,9 @@
 ===========================
 Full Stack and 3D
 -----------------
-I'm a full-stack and 3d developer - I've been coding since I was a kid so I have exposure to all sorts of areas, languages, and use-cases from WebApps, scraping, Web3, 3D web, general scripting, botting, you name it. I'm most at home with JS, TS, or Rust these days, but i've had months on various projects with Java, Python, Go, even Fortran-90 once. Most of my projects revolve around some of SvelteKit, Threejs, Blender, Bevy, and i've been pushing more recently into Axum.
+I'm a full-stack and 3d developer - I've been coding since I was a kid so I have exposure to all sorts of areas, languages, and use-cases from WebApps, scraping, Web3, 3D web, general scripting, botting, you name it. <br/><br/>
+I'm most at home with JS, TS, or Rust these days, but i've had months on various projects with Java, Python, Go, even Fortran-90 once. <br/><br/>
+Most of my projects revolve around some of SvelteKit, Threejs, Blender, Bevy, and i've been pushing more recently into Axum.
 
 ### Skills
 
@@ -13,12 +15,8 @@ I'm a full-stack and 3d developer - I've been coding since I was a kid so I have
 ### Socials
 <p align="left"> <a href="https://www.github.com/MisterSzled" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://www.buymeacoffee.com/misterszled"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<br/>
+<a href="https://www.ko-fi.com/MisterSzled"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/misterszled"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/MisterSzled"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
