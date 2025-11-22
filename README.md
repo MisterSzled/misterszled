@@ -1,10 +1,10 @@
 ༼ つ ╹ ╹ ༽つ
 ===========================
-Full Stack and 3D
+Front-End / React(-Native)
 -----------------
-I'm a full-stack and 3d developer - I've been coding since I was a kid so I have exposure to all sorts of areas, languages, and use-cases from WebApps, scraping, Web3, 3D web, general scripting, botting, you name it. <br/><br/>
-I'm most at home with JS, TS, or Rust these days, but i've had months on various projects with Java, Python, Go, even Fortran-90 once. <br/><br/>
-Most of my projects revolve around some of SvelteKit, Threejs, Blender, Bevy, and i've been pushing more recently into Axum.
+I'm a Front-End/React/React-native/Svelte dev - I've been coding since I was a kid so I have exposure to all sorts of areas, languages, and use-cases from WebApps, DataViz, scraping, Web3, 3D, general scripting, botting, you name it. <br/><br/>
+Most of my hobby work is React-Native or Rust at the moment. <br/><br/>
+
 
 <br/> <br/>
 
