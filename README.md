@@ -2,7 +2,8 @@
 ===========================
 Front-End / React(-Native)
 -----------------
-I'm a Front-End/React/React-native/Svelte dev - I've been coding since I was a kid so I have exposure to all sorts of areas, languages, and use-cases from WebApps, DataViz, scraping, Web3, 3D, general scripting, botting, you name it. <br/><br/>
+I'm a Front-End/React/React-native/Svelte dev <br/><br/> 
+I've been coding since I was a kid so I have exposure to all sorts of areas, languages, and use-cases from WebApps, DataViz, scraping, Web3, 3D, general scripting, botting, you name it. <br/><br/>
 Most of my hobby work is React-Native or Rust at the moment. <br/><br/>
 
 
